@@ -1,0 +1,9 @@
+D:\паттерны\TestsCreateMem\TestsCreateMem\obj\Debug\TestsCreateMem.csprojResolveAssemblyReference.cache
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\TestsCreateMem.dll
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\TestsCreateMem.pdb
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\CreateMem.exe
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\nunit.framework.dll
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\CreateMem.pdb
+D:\паттерны\TestsCreateMem\TestsCreateMem\bin\Debug\nunit.framework.xml
+D:\паттерны\TestsCreateMem\TestsCreateMem\obj\Debug\TestsCreateMem.dll
+D:\паттерны\TestsCreateMem\TestsCreateMem\obj\Debug\TestsCreateMem.pdb

@@ -1,0 +1,8 @@
+D:\паттерны\TestsCreateMem\CreateMem\bin\Debug\CreateMem.exe.config
+D:\паттерны\TestsCreateMem\CreateMem\bin\Debug\CreateMem.exe
+D:\паттерны\TestsCreateMem\CreateMem\bin\Debug\CreateMem.pdb
+D:\паттерны\TestsCreateMem\CreateMem\obj\Debug\CreateMem.exe
+D:\паттерны\TestsCreateMem\CreateMem\obj\Debug\CreateMem.pdb
+D:\паттерны\TestsCreateMem\CreateMem\obj\Debug\CreateMems.csprojResolveAssemblyReference.cache
+D:\паттерны\TestsCreateMem\CreateMem\obj\Debug\CreateMems.Form1.resources
+D:\паттерны\TestsCreateMem\CreateMem\obj\Debug\CreateMems.csproj.GenerateResource.Cache
