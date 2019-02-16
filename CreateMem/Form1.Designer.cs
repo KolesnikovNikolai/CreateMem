@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        //todo необходимы переименования форм, кнопок и т.п.
         /// <summary>
         /// Required designer variable.
         /// </summary>
